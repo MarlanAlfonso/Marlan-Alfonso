@@ -27,7 +27,6 @@ _New Era University (Expected Graduation: 2027)_
 - DB2
 
 ### Tools & Technologies
-- Version Control: Git, GitHub
 - Database Management: DB2, SQL
 
 ---
